@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>global page</title>
+  <script type="text/javascript">
+    function tabActivated(tab) {
+      console.log("tab activated with url ", tab.url);
+    }
+
+    safari.application.addEventListener("activated", tabActivated, true);
+
+    function mergeButton() {
+      console.log("merge button pressed");
+    }
+  </script>
+</head>
+</html>
