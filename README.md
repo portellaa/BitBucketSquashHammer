@@ -1,2 +1,2 @@
-# HammerMySquash
-Automagically changes the bitbucket merge strategy to Squash 😃
+# BitBucketSquashHammer
+Automagically changes the bitbucket merge strategy to Squash 😃 ✨🛠✨
